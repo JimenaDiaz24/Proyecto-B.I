@@ -1,0 +1,15 @@
+body{
+    background-color: powderblue;
+ }
+ .a1{
+    color:blue
+ }
+ #titulo-collar-perlas{
+    color:blue 
+ }
+ .miclase{
+     display: flex;
+ }
+ .desaparecido{
+    display: none;
+ }
